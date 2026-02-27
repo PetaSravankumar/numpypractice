@@ -6,7 +6,7 @@ DetailInfo📅 Completed OnDay 1 of 45-Day ML Journey📓 Notebooknumpy_notes.ip
 📚 What I Learned
 NumPy Arrays → Reshape → Slicing → Boolean Indexing →
 Stacking → Math Operations → Statistics → nditer →
-Student Grades Problem → Normalization → House Dataset (ML Simulation)
+Student Grades Problem → Normalization → House Dataset (ML Simulation) 
 
 🗂️ Exercise Breakdown
 
